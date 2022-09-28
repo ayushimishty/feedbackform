@@ -1,0 +1,16 @@
+body {
+    background-color: #e49ab0;
+    margin: 10% 20%;
+    color: #4b1704;
+    font-family: Arial, "sans serif";
+  }
+  #feild{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    border-radius: 5%;
+    border-color: blue;
+    border-style: dotted;
+    background-color: forestgreen;
+    color:darkturquoise;
+  }
